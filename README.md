@@ -18,7 +18,7 @@ I worked on this project with my study group peers, Chase Seeberger and Will Sch
 
 ## Link
 
-https://github.com/shhutc18/Password-Generator
+https://shhutc18.github.io/Password-Generator/
 
 ## Screenshot
 
