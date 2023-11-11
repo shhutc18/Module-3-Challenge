@@ -18,11 +18,11 @@ I worked on this project with my study group peers, Chase Seeberger and Will Sch
 
 ## Link
 
-<!-- Link to deployed website -->
+https://shhutc18.github.io/Password-Generator/
 
 ## Screenshot
 
-<!-- Screenshot of randomly generated password -->
+<img src="assets/images/PasswordGenerator.jpg">
 
 ## License
 
