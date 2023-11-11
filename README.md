@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator (Module 3 Challenge)
 
 ## Description
 
@@ -14,7 +14,7 @@ To use this webpage, you can click on "Generate Password". By doing so, this wil
 
 ## Credits
 
-I worked on this project with my study group peers, Chase Seeberger and Will Schickler.
+I worked on this project with my study group peers, Chase Seeberger and Will Schickler. Starter code was provided by University of Oregon coding bootcamp.
 
 ## Link
 
